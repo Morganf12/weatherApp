@@ -1,0 +1,19 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "tells the weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Foster",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.14.8"
+  },
+  "dependencies": {
+    "nodemon": "^1.14.8",
+    "request": "^2.83.0",
+    "yargs": "^10.0.3"
+  }
+}
